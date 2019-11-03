@@ -78,31 +78,31 @@ In this term, you'll first become an expert in applying Computer Vision and Deep
 
 Next, you'll learn Sensor Fusion, or how to use an array of sensor data to perceive the environment around the vehicle.
 
-* [Project1:  Finding Lane Lines](https://github.com/lilyhappily/CarND-Term1-P1-Finding-Lane-Lines)
+* **[Project1:  Finding Lane Lines](https://github.com/lilyhappily/CarND-Term1-P1-Finding-Lane-Lines)**
 
   **Summary**: Used sic knowledge of computer vision such as grayscale, Gaussian blur, mask and so on to make a pipeline to detect the straight lines on the road. 
 
   **Keywords**: Computer vison, OpenCV
 
-- [Project2： Advanced Lane Finding](https://github.com/lilyhappily/CarND-Term1-P2-Advanced-Lane-Lines)
+- **[Project2： Advanced Lane Finding](https://github.com/lilyhappily/CarND-Term1-P2-Advanced-Lane-Lines)**
 
   **Summary**: Used Camera Calibration, Perspective Transform,  fit a polynomial, Compute curvature to built an advanced lane-finding algorithm.
 
   **Keywords**: Computer vison, OpenCV
 
-- [Project3： Traffic Sign Classifier](https://github.com/lilyhappily/CarND-Term1-P3-Traffic-Sign-Classifier)
+- **[Project3： Traffic Sign Classifier](https://github.com/lilyhappily/CarND-Term1-P3-Traffic-Sign-Classifier)**
 
   **Summary**: Built a deep neural network to classify traffic signs using Pytorch. Data augmentation and resampling to make the model more robust.
 
   **Keywords**: CNN, Pytorch, Data Argumentation, Resample
 
-- [Project4： Behavioral Cloning](https://github.com/lilyhappily/CarND-Term1-P4-Behavioral-Cloning)
+- **[Project4： Behavioral Cloning](https://github.com/lilyhappily/CarND-Term1-P4-Behavioral-Cloning)**
 
   **Summary**: Used a CNN to build a model to predict the steer angle of the vehicle to implement  the task of End to End Learning for Self-Driving Cars.
 
   **Keywords**: CNN, Keras, Regression
   
-- [Project5： Extended Kalman Filters](https://github.com/lilyhappily/CarND-Term1-P5-EKF)
+- **[Project5： Extended Kalman Filters](https://github.com/lilyhappily/CarND-Term1-P5-EKF)**
 
   **Summary**: Utilizeda Kalman Filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Obtaining RMSE values to make the model more better.
 
@@ -116,25 +116,25 @@ In this term, you'll expand on your sensor knowledge to localize and control the
 
 After that, you'll learn how to plan where the vehicle should go, and how the vehicle systems work together to get it there.
 
-- [Project6： Kidnapped Vehicle](https://github.com/lilyhappily/CarND-Term2-P1-Kidnapped-Vehicle-and-notes)
+- **[Project6： Kidnapped Vehicle](https://github.com/lilyhappily/CarND-Term2-P1-Kidnapped-Vehicle-and-notes)**
 
   **Summary**:  Used sensor knowledge to localize and control the vehicle. Evaluating sensor data from camera, radar, lidar, and GPS, and use these in closed-loop controllers that actuate the vehicle.
 
   **Keywords**:  C++, Localization, Particle Filter
 
-- [Project7： Highway Driving](https://github.com/lilyhappily/CarND-Term2-P2-Highway-Driving-and-notes)
+- **[Project7： Highway Driving](https://github.com/lilyhappily/CarND-Term2-P2-Highway-Driving-and-notes)**
 
   **Summary**:  Built a path planner that creates smooth, safe trajectory for cars on highway driving. Created a successful path planner which is able to keep inside its lane, avoid hitting other cars, and pass slower moving traffic all by localization, sensor fusion, and map data.
 
   **Keywords**:  C++, Path planning
 
-- [Project8： PID Controller](https://github.com/lilyhappily/CarND-Term2-P3-PID-Control-and-notes)
+- **[Project8： PID Controller](https://github.com/lilyhappily/CarND-Term2-P3-PID-Control-and-notes)**
 
   **Summary**:  Implement a PID controller for keeping the car on track by appropriately adjusting the steering angle.
 
   **Keywords**:  C++, PID
 
-- [Project9： Programming a Real Self-Driving Car](https://github.com/lilyhappily/CarND-Term2-P6-Capstone)
+- **[Project9： Programming a Real Self-Driving Car](https://github.com/lilyhappily/CarND-Term2-P6-Capstone)**
 
   **Summary**: Wrote ROS nodes to implement core functionality of the autonomous vehicle system, including traffic light detection, control, and waypoint following! You will test your code using a simulator, and when you are ready, your group can submit the project to be run on Carla.
 

@@ -71,7 +71,7 @@ In this repository I will gather all my finished codes about the projects of **[
 </table>
 
 ## Bootcamp
-<div align=center><img src="./README.assets/result dispaly.gif" width = "800" height = "500" alt="result dispaly.gif" align=center /></div>
+<div align=center><img src="./README.assets/result dispaly.gif" width = "700" height = "400" alt="result dispaly.gif" align=center /></div>
 
 
 ## Part 1

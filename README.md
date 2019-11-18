@@ -4,6 +4,8 @@
 
 In this repository I will gather all my finished codes about the projects of **[Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)** . About new version, a total of 9 projects. And after that, I enrolled the Bootcamp of self driving car. I combined all these knowledge to make a real car driving autonomously on the roads with traffic lights.
 
+## SDCND
+
 <table style="width:100%">
   <tr>
     <th>
@@ -68,6 +70,8 @@ In this repository I will gather all my finished codes about the projects of **[
   </tr>
 </table>
 
+## Bootcamp
+<div align=center><img src="./README.assets/result dispaly.gif" width = "800" height = "500" alt="result dispaly.gif" align=center /></div>
 
 
 ## Part 1
@@ -153,5 +157,5 @@ After that, you'll learn how to plan where the vehicle should go, and how the ve
 
 **Keywords**:  C++, ROS, Autoware, Python, Transfer Learning
 
-<div align=center><img src="./README.assets/result dispaly.gif" width = "500" height = "300" alt="result dispaly.gif" align=center /></div>
+
 
